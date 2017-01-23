@@ -16,6 +16,9 @@
 - [What UX Designers Can Learn from Psychology](https://blog.prototypr.io/what-ux-designers-can-learn-from-psychology-9fd55d55a4fd#.b9h3kprm6) :+1: @ngai.yt
 - [The State of UX in 2017](https://uxdesign.cc/ux-trends-2017-46a63399e3d2#.ykrrvbgf7) :+1: #uxdesign.cc
 
+# System 
+- [Serverless Architectures](https://martinfowler.com/articles/serverless.html) :+1: @Mike Roberts 
+
 # Frontend
 
 ## general
